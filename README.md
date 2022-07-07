@@ -1,5 +1,5 @@
 # GraphVid
-**Creates a graph of a video using superpixels. Inspired by Eitan Kosman and Dotan Di Castro GraphVid paper.**
+**Creates a graph of a video using superpixels. Inspired by Eitan Kosman and Dotan Di Castro's GraphVid paper.**
 
 *Read the original paper: https://arxiv.org/abs/2207.01375*
 
