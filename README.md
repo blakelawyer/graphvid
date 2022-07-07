@@ -1,8 +1,10 @@
 # GraphVid
 **Creates a graph of a video using superpixels. Inspired by Eitan Kosman and Dotan Di Castro GraphVid paper.**
+
 *Read the original paper: https://arxiv.org/abs/2207.01375*
 
-*Utilizes code from Adrian Rosebrock's SLIC segmentation blog post*
+*Utilizes code from Adrian Rosebrock's SLIC segmentation blog post:*
+
 *https://pyimagesearch.com/2014/07/28/a-slic-superpixel-tutorial-using-python/*
 
 ![Figure_1](https://user-images.githubusercontent.com/38335612/177869862-15fbd3b0-3371-4468-b441-7b3635010c8d.png)
